@@ -1,0 +1,5 @@
+pennylane
+pennylane-qiskit
+qiskit-ibm-runtime
+scikit-learn
+numpy
